@@ -15,7 +15,7 @@ What you can expect are 400 pages rich in useful material just about everything 
 we will put those concepts into action mainly using NumPy, scikit-learn, and Theano.
 
 You are not sure if this book is for you? Please checkout the excerpts from the [Foreword](./docs/foreword_ro.pdf) and [Preface](./docs/preface_sr.pdf), or take a look at the [FAQ](#faq) section for further information.
-Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
+
 
 ---
 
